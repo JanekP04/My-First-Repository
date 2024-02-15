@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import BlogPost from '../components/BlogPost.astro';
 const pageTitle = "My Astro Learning Blog";
 const allPosts = await Astro.glob('../pages/posts/*.md')
+const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())];
 ---
 
 <html lang="en">
@@ -15,12 +16,21 @@ const allPosts = await Astro.glob('../pages/posts/*.md')
 	</head>
 	<body>
 		<BaseLayout pageTitle={pageTitle}>
+
         <p>This is where I will post about my journey learning Astro.</p>
+		
+		<div class="tags">
+			{tags.map((tag) => (
+				<p class="tag"><a href={`/tags/${tag}`}>{tag}</a></p>
+			))}
+		</div>
+
 		<div class="mx-2 my-4">
 		<ul class=" grid gap-y-4 sm:grid-cols-1 sm:gap-y-3 md:grid-cols-2 md:gap-2 ">
 			{allPosts.map((post) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
   		</ul>
 		</div>
+
 		</BaseLayout>
 	</body>
 </html>
