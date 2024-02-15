@@ -1,18 +1,22 @@
 html {
     background-color: #fdfdfd;
     font-family: sans-serif;
+    scroll-behavior: smooth;
   }
   
   body {
     margin: 0 auto;
     width: 100%;
-    max-width: 90ch;
-    padding: 1rem;
+    max-width: 100ch;
     line-height: 1.5;
+    min-height: 100vh;
+    position: relative;
   }
   
   * {
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
   }
   
   h1 {
@@ -24,23 +28,23 @@ html {
 
 /* nav styles */
 .hamburger {
-  padding-right: 20px;
+  padding: 10px 0 0 10px;
   cursor: pointer;
+  margin-bottom: auto;
 }
 
 .hamburger .line {
   display: block;
-  width: 40px;
-  height: 5px;
-  margin-bottom: 10px;
-  background-color: #ff9776;
+  width: 24px;
+  height: 3px;
+  margin-bottom: 4px;
+  background-color: #070616;
 }
 
 .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
   display: none;
   margin: 0;
 }
@@ -57,7 +61,7 @@ html {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #ff9776;
+  background-color: #DBE2EB;
 }
 
 .expanded {

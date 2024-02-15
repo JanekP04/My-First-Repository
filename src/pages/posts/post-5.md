@@ -7,7 +7,7 @@ author: 'Astro Learner'
 image:
     url: 'https://docs.astro.build/assets/full-logo-dark.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "microeconomy"]
 ---
 
 <span class='h3'> Demand management policies are macroeconomic policies implemented by governments or central banks to influence aggregate demand in an economy. These policies aim to stabilise economic fluctuations, control inflation, and promote economic growth.</span>
