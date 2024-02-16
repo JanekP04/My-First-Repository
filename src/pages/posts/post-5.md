@@ -2,12 +2,9 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Demand Management Policies'
 pubDate: 2024-02-15
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
-image:
-    url: 'https://docs.astro.build/assets/full-logo-dark.png'
-    alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "microeconomy"]
+description: 'This is the first post of my new Economy blog.'
+author: 'Alicja Pasterzak'
+tags: ["microeconomy"]
 ---
 
 <span class='h3'> Demand management policies are macroeconomic policies implemented by governments or central banks to influence aggregate demand in an economy. These policies aim to stabilise economic fluctuations, control inflation, and promote economic growth.</span>
@@ -22,7 +19,10 @@ a. **Fiscal Policy:**- Fiscal policy involves government manipulation of taxatio
 
 -_Expansionary Fiscal Policy_: Implemented during economic downturns to stimulate aggregate demand. This involves decreasing taxes and/or increasing government spending.
 
+<div class='flex justify-center'>
+
 ![](./images/ChartPost52.png)
+</div>
 
 -Contractionary Fiscal Policy: Implemented during periods of inflation or economic overheating to reduce aggregate demand. This involves increasing taxes and/or decreasing government spending.
 
@@ -77,8 +77,10 @@ The government can increase spending on infrastructure projects,education, healt
 b. **Monetary Policy**:-Monetary policy involves central bank manipulation of interest rates and money supply to influence aggregate demand.
        
 _-Expansionary Monetary Policy:_ Implemented during economic downturns to stimulate borrowing and spending. 
+<div class='flex justify-center'>
 
 ![](./images/testPost5.png)
+</div>
  
 -Contractionary Monetary Policy: Implemented during periods of inflation to reduce borrowing and spending. This involves increasing interest rates and/or reducing the money supply.
 
