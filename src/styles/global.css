@@ -1,6 +1,6 @@
   :root{
     --ui-font:'Poppins', sans-serif;
-    --title-font: 'Khand', sans-serif;
+    --title-font: 'Outfit', sans-serif;
     --paragraph-font: 'Switzer', sans-serif;
     --main-font-color: #262626;
     --bg-color: #fcfcfc;
@@ -38,6 +38,7 @@
     margin: 1rem 0;
     font-size: 2rem;
     font-family: var(--title-font);
+    line-height: normal;
   }
   .post-title{
     font-size: 1.5rem;
