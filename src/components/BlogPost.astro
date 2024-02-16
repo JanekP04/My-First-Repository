@@ -1,14 +1,12 @@
 ---
 const { title, url } = Astro.props;
+const { tag } = Astro.params;
 ---
 <div class="shadow rounded-xl sm:mx-4 sm:mb-4 md:mx-0 w-full max-w-80">
 <img class="rounded-t-xl w-full" src="https://via.placeholder.com/300x150" alt="Placeholder Image">
-<div>
-    <div class="post-filters">
-        <div class="post-date"></div>
-        <div class="post-tags"></div>
-    </div>
-    <li class="rounded-b-xl mt-2 mb-1 pl-2 w-full text-lg font-semibold"><a href={url}>{title}</a></li>
-    <p class="post-desc pl-2 w-full"> some text</p>
+<div class=" px-1 pb-6">
+    <h1 class="post-title m-0"><a href={url}>{title}</a></h1>
+    <p class="text-neutral-400 text-sm leading-none mt-0">{tag}</p>
+    <p class="post-desc w-full text-wrap mt-1"> some text</p>
 </div>
 </div>
