@@ -7,11 +7,13 @@ author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
 ---
 
-<span class='h3'> Demand management policies are macroeconomic policies implemented by governments or central banks to influence aggregate demand in an economy. These policies aim to stabilise economic fluctuations, control inflation, and promote economic growth.</span>
+# Demand menagement policies
+
+Demand management policies are macroeconomic policies implemented by governments or central banks to influence aggregate demand in an economy. These policies aim to stabilise economic fluctuations, control inflation, and promote economic growth.
 
 <br>
 
-**2. Types of Demand Management Policies:**
+**Types of Demand Management Policies:**
 
 a. **Fiscal Policy:**- Fiscal policy involves government manipulation of taxation and  government spending to influence aggregate demand. 
 
@@ -159,5 +161,4 @@ Examples:
 -Great Recession: During the 2008 financial crisis, many governments implemented expansionary fiscal and monetary policies to stimulate demand and prevent a deep recession.
 
 -COVID-19 Pandemic: In response to the economic impacts of the COVID-19 pandemic, governments worldwide implemented massive fiscal stimulus packages and central banks pursued aggressive monetary easing to support aggregate demand and prevent a prolonged recession.
-
 

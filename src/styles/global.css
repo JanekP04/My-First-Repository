@@ -26,7 +26,10 @@
     width: 100%;
     max-width: 100ch;
     min-height: 100vh;
+    height: 100%;
     position: relative;
+    outline: 1px solid red;
+    padding-bottom: 10rem;
   }
   
  
@@ -41,6 +44,10 @@
     font-family: var(--paragraph-font);
     font-weight: 400;
     font-size: 1.1rem;
+  }
+
+  footer{
+    background: var(--main-color);
   }
 
 /* nav styles */
@@ -64,6 +71,8 @@
   left: 48px;
   display: none;
   margin: 0;
+  transition: all ease 0.3s;
+  color: #555555;
 }
 
 .nav-links a {
@@ -75,7 +84,7 @@
 
 .nav-links a:hover,
 .nav-links a:focus {
-  color: var();
+  color: var(--main-font-color);
 }
 
 .expanded {
