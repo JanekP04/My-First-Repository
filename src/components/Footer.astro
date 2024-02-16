@@ -1,8 +1,16 @@
 ---
-const platform = "github";
-const username = "withastro";
+import Navigation from "./Navigation.astro"
 ---
 
-<footer class="absolute bottom-0 mt-6 w-full flex justify-center items-center pt-2 pb-6 gap-4">
-
+<footer class="absolute bottom-0 z-30 mt-6 w-full min-w-full flex flex-col items-center pt-2 pb-6 gap-4 text-neutral-600">
+    <div class="flex gap-6">
+        <a href="/">Home</a>
+        <a href="/about/">About</a>
+        <a href="/blog/">Blog</a>
+    </div>
+    <div>
+        <p class=" text-sm">
+            &copy; Website made with Astro by <a href="janek.webdev@gmail.com">Janek Pasterzak</a>
+        </p>
+    </div>
 </footer>

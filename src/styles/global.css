@@ -36,7 +36,7 @@
   
   h1 {
     margin: 1rem 0;
-    font-size: 3.2rem;
+    font-size: 2rem;
     font-family: var(--title-font);
   }
   .post-title{
@@ -46,7 +46,7 @@
   p{
     font-family: var(--paragraph-font);
     font-weight: 400;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
   }
   .post-desc{
     font-size: 1rem;
@@ -115,6 +115,9 @@
     display: none;
   }
 
+  h1{
+    font-size: 3.2rem;
+  }
 }
 
 /* Markdown styling */

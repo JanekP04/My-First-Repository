@@ -10,13 +10,17 @@ const { pageTitle } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <link href="https://api.fontshare.com/v2/css?f[]=author@300&f[]=switzer@400&f[]=khand@700&f[]=poppins@400,300,200&display=swap" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=outfit@600&f[]=switzer@400&f[]=poppins@400,300,200&display=swap" rel="stylesheet">
     <title>{pageTitle}</title>
   </head>
-  <body>
+  <body class=" w-full min-w-full flex flex-col items-center">
+    
     <Header />
+    <div class="layout-wrapper h-full min-h-dvh w-full max-w-4xl px-4 outline">
     <slot />
+    </div>
     <Footer />
+    
     <script>
       import "../scripts/menu.js";
     </script>

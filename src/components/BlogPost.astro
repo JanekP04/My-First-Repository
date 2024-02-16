@@ -1,12 +1,12 @@
 ---
 const { title, url } = Astro.props;
-const { tag } = Astro.params;
+import { Image } from 'astro:assets';
+import PostBg from '../../public/PostBg.jpg';
 ---
 <div class="shadow rounded-xl sm:mx-4 sm:mb-4 md:mx-0 w-full max-w-80">
-<img class="rounded-t-xl w-full" src="https://via.placeholder.com/300x150" alt="Placeholder Image">
-<div class=" px-1 pb-6">
+<Image class="rounded-t-xl w-full max-h-40" src={PostBg} alt="Placeholder Image" />
+<div class=" px-2 pb-6">
     <h1 class="post-title m-0"><a href={url}>{title}</a></h1>
-    <p class="text-neutral-400 text-sm leading-none mt-0">{tag}</p>
-    <p class="post-desc w-full text-wrap mt-1"> some text</p>
+    <p class="post-desc w-full text-wrap mt-1">Demand management policies are macroeconomic policies implemented by governments or central banks to influence aggregate demand in an economy.</p>
 </div>
 </div>

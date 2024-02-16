@@ -23,7 +23,7 @@ a. **Fiscal Policy:**- Fiscal policy involves government manipulation of taxatio
 
 <div class='flex justify-center'>
 
-![](./images/ChartPost52.png)
+![](../../images/Chart52.jpg)
 </div>
 
 -Contractionary Fiscal Policy: Implemented during periods of inflation or economic overheating to reduce aggregate demand. This involves increasing taxes and/or decreasing government spending.
@@ -81,7 +81,7 @@ b. **Monetary Policy**:-Monetary policy involves central bank manipulation of in
 _-Expansionary Monetary Policy:_ Implemented during economic downturns to stimulate borrowing and spending. 
 <div class='flex justify-center'>
 
-![](./images/testPost5.png)
+![](../../images/Chart51.jpg)
 </div>
  
 -Contractionary Monetary Policy: Implemented during periods of inflation to reduce borrowing and spending. This involves increasing interest rates and/or reducing the money supply.
@@ -95,7 +95,7 @@ Examples:
 
 -Expansionary Monetary Policy:Central banks lower interest rates to stimulate borrowing and spending, thus increasing aggregate demand. This encourages businesses to invest and consumers to spend, which can lead to economic expansion.
 
-- Contractionary Monetary Policy: Central banks raise interest rates to reduce borrowing and spending, thereby cooling down an overheating economy and controlling inflation. Higher interest rates make borrowing more expensive, leading to decreased investment and consumption.
+-Contractionary Monetary Policy: Central banks raise interest rates to reduce borrowing and spending, thereby cooling down an overheating economy and controlling inflation. Higher interest rates make borrowing more expensive, leading to decreased investment and consumption.
 
 <br>
 
