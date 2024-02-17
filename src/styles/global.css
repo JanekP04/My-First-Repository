@@ -28,7 +28,6 @@
     min-height: 100vh;
     height: 100%;
     position: relative;
-    outline: 1px solid red;
     padding-bottom: 10rem;
   }
   
@@ -38,7 +37,7 @@
     margin: 1rem 0;
     font-size: 2rem;
     font-family: var(--title-font);
-    line-height: normal;
+    line-height: 1.1;
   }
   .post-title{
     font-size: 1.5rem;
@@ -59,7 +58,7 @@
 
 /* nav styles */
 .hamburger {
-  padding: 10px 0 0 10px;
+  padding: 10px 10px;
   cursor: pointer;
   margin-bottom: auto;
 }
@@ -74,35 +73,24 @@
 
 .nav-links {
   width: 100%;
-  top: 5rem;
-  left: 48px;
   display: none;
   margin: 0;
-  transition: all ease 0.3s;
   color: #555555;
 }
 
 .nav-links a {
-  display: block;
   text-align: center;
   padding: 10px 0;
-  text-decoration: none;
-}
-
-.nav-links a:hover,
-.nav-links a:focus {
-  color: var(--main-font-color);
 }
 
 .expanded {
   display: unset;
 }
 
+
 @media screen and (min-width: 636px) {
   .nav-links {
-    margin-left: 5em;
     display: block;
-    position: static;
     width: auto;
     background: none;
   }
