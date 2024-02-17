@@ -3,9 +3,9 @@ const { title, url } = Astro.props;
 import { Image } from 'astro:assets';
 import PostBg from '../../public/PostBg.jpg';
 ---
-<div class="shadow rounded-xl sm:mx-4 sm:mb-4 md:mx-0 w-full max-w-80">
+<div class="shadow sm:mx-4 sm:mb-4 md:mx-0 w-full max-w-80">
 
-<Image class="rounded-t-xl w-full max-h-40" src={PostBg} alt="Placeholder Image" />
+<Image class="w-full max-h-40" src={PostBg} alt="Placeholder Image" />
 <div class=" px-2 pb-6">
     <div class="w-full outline-1 outline p-2">
         <!-- tag icon? -->
