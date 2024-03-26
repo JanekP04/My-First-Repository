@@ -54,7 +54,7 @@ The EU has also experienced trade diversion, particularly in agricultural produc
 
 Mercosur, comprising countries like Brazil, Argentina, Paraguay, and Uruguay, has seen instances of trade diversion. When Mercosur imposes higher tariffs on goods from non-member countries, it diverts trade away from those countries to member countries, sometimes at the expense of efficiency.
 
-### Essay type exercises: (bigger font)
+## Essay type exercises: 
 
 1. Discuss the concept of trade creation and trade diversion in the context of regional trade agreements. Using real-life examples, analyse the economic effects of trade creation and diversion on member countries and non-member countries.
 
