@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Schools of economic thinking'
 pubDate: 2024-03-30
-description: 'This is the second post of my new Economy blog.'
+description: 'lassical economics emerged during the 18th and 19th centuries and emphasises principles such as free markets, minimal government intervention, and the efficiency of resource allocation through the price mechanism.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
 ---

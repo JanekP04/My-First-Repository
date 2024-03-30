@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Measuring economic progress'
 pubDate: 2024-03-30
-description: 'This is the second post of my new Economy blog.'
+description: 'Economic development is a multidimensional concept. It could be defined as an improvement in living standards or economic welfare, wellbeing.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
 ---

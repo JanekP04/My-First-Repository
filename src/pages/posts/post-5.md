@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Price elasticity of demand'
 pubDate: 2024-03-30
-description: 'This is the second post of my new Economy blog.'
+description: 'Demand is the quantity of a good or service that consumers are willing and able to purchase at different prices in a given time period.'
 author: 'Alicja Pasterzak'
 tags: ["macroeconomy"]
 ---

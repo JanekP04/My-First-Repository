@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Demand Management Policies'
 pubDate: 2024-02-15
-description: 'This is the first post of my new Economy blog.'
+description: 'Demand management policies are macroeconomic policies implemented by governments or central banks to influence aggregate demand in an economy.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
 ---

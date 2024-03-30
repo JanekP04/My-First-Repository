@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Free trade and protectionism'
 pubDate: 2024-03-30
-description: 'This is the second post of my new Economy blog.'
+description: 'Free trade takes place between countries when there are no barriers to trade in place, established by the government or international organisations.'
 author: 'Alicja Pasterzak'
 tags: ["global economy"]
 ---

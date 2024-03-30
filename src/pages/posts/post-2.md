@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'HL topic Trade diversion and trade creation'
 pubDate: 2024-03-30
-description: 'This is the second post of my new Economy blog.'
+description: 'Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.'
 author: 'Alicja Pasterzak'
 tags: ["global economy"]
 ---
