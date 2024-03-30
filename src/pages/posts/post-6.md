@@ -6,8 +6,6 @@ description: 'This is the second post of my new Economy blog.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
 ---
-
-
 # HL topic Trade diversion and trade creation
 
 Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.
