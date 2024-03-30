@@ -19,9 +19,10 @@ This occurs when a country enters into a regional trade agreement (RTA) and star
 <div class='flex justify-center'>
 
 ![](../../images/tradecreation.png)
+
 </div>
 
-### Trade Diversion
+## Trade Diversion
 
 This occurs when a country enters into an RTA and starts trading less with non-member countries due to the imposition of higher trade barriers (such as tariffs) on them compared to member countries. Trade diversion can lead to inefficiencies if the diverted trade is from a more efficient producer outside the agreement to a less efficient producer within the agreement.
 
@@ -32,7 +33,7 @@ This occurs when a country enters into an RTA and starts trading less with non-m
 
 These concepts are essential in analysing the impact of regional trade agreements on the allocation of resources, trade patterns, and overall economic welfare.
 
-### Here are some real-life examples of trade creation and trade diversion:
+## Here are some real-life examples of trade creation and trade diversion:
 
 **Trade Creation:**
 
