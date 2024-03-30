@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Trade diversion and creation'
-pubDate: 2024-03-26
+title: 'HL topic Trade diversion and trade creation'
+pubDate: 2024-03-30
 description: 'This is the second post of my new Economy blog.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
