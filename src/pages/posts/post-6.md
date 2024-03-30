@@ -1,60 +1,38 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'HL topic Trade diversion and trade creation'
+title: 'Measuring economic progress'
 pubDate: 2024-03-30
 description: 'This is the second post of my new Economy blog.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomy"]
 ---
-# HL topic Trade diversion and trade creation
 
-Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.
+# Measuring economic progress
 
-## Trade Creation
+## Economic development
+Economic development is a multidimensional concept. It could be defined as an improvement in living standards or economic welfare, wellbeing.
 
-This occurs when a country enters into a regional trade agreement (RTA) and starts trading more with other member countries because of the removal of trade barriers within the agreement. It leads to the diversion of trade from higher-cost producers outside the agreement to lower-cost producers within the agreement. This generally results in increased efficiency and welfare gains for the participating countries.
+## Economic growth
+It is an increase in the real output of the economy.
 
-<div class='flex justify-center'>
+To measure economic progress we use single and composite indicators. In this part some examples would be showcased. Of course it should be taken into account that inaccuracies of different sorts may appear when data is collected for all indicators.
 
-![](../../images/tradecreation.png)
+**Single indicators**
+- Financial measures such as GDP, GDP per capita and GNI along with GNI per capita. GDP can be defined as the total of all economic activity in a country, regardless of asset ownership, per capacity simply means that this value is divided by the number of population. GNI on the other hand is defined as the total income that is earned by a country's factors of production, regardless of their location.
+- PPP in other words Purchasing Power Parity, it is defined as an exchange rate created to equate the purchasing power of currencies in different countries to measure and compare price levels.
+- Health measures such as life expectancy at birth and infant mortality rate
+- Education measures known as expected years of schooling and mean years of schooling
+- Economic/social inequality indicators for example pay inequality, access to credit etc.
+- Energy indicators in terms of energy poverty
+- Environmental indicators such as level of greenhouse emissions or ocean temperatures.
+- Unemployment rate
 
-</div>
-
-## Trade Diversion
-
-This occurs when a country enters into an RTA and starts trading less with non-member countries due to the imposition of higher trade barriers (such as tariffs) on them compared to member countries. Trade diversion can lead to inefficiencies if the diverted trade is from a more efficient producer outside the agreement to a less efficient producer within the agreement.
-
-<div class='flex justify-center'>
-
-![](../../images/tradediversion.jpg)
-</div>
-
-These concepts are essential in analysing the impact of regional trade agreements on the allocation of resources, trade patterns, and overall economic welfare.
-
-## Here are some real-life examples of trade creation and trade diversion:
-
-**Trade Creation:**
-
-*European Union (EU)*
-
-When countries like Spain and Portugal joined the EU, they experienced trade creation as they increased their trade with other member countries due to reduced trade barriers.
-
-*North American Free Trade Agreement (NAFTA)*
-
-NAFTA led to trade creation among its member countries (United States, Canada, and Mexico) as they benefited from reduced tariffs and increased trade among themselves.
-
-**Trade Diversion:**
-
-*European Union (EU)*
-
-The EU has also experienced trade diversion, particularly in agricultural products. When the EU imposes higher tariffs on agricultural imports from non-member countries, it diverts trade away from more efficient producers outside the EU to less efficient producers within the EU.
-
-*Mercosur (Southern Common Market)*
-
-Mercosur, comprising countries like Brazil, Argentina, Paraguay, and Uruguay, has seen instances of trade diversion. When Mercosur imposes higher tariffs on goods from non-member countries, it diverts trade away from those countries to member countries, sometimes at the expense of efficiency.
-
-## Essay type exercises: 
-
-1. Discuss the concept of trade creation and trade diversion in the context of regional trade agreements. Using real-life examples, analyse the economic effects of trade creation and diversion on member countries and non-member countries.
-
-2. To what extent do regional trade agreements contribute to trade creation and trade diversion? Evaluate the impact of regional trade agreements on global trade patterns and economic welfare, considering both positive and negative consequences.
+**Composite indicators**
+- Human Development Index (HDI) measures three aspects: long and healthy life, improved education and decent standards of living.
+- The Gender Inequality Index (IGI) which focuses on gender inequalities. It measures  reproductive health, empowerment and economic status.
+- Inequality adjusted HDI (IHDI), which adjusts the HDI components then adjusted for inequality.
+- Happy planet Index(HPI) focused on  wellbeing, life expectancy, inequality of incomes and ecological footprint.
+- The Multidimensional Poverty Index(MPI) measures the deprivations in three areas: health, education and standards of living.
+- The Inclusive Development Index (IDI) that takes into account 103 countries, economic performance. The main components are growth and development, inclusion and integrational equity and stability.
+- Happiness Index (HI) which measures economic well being in forms of happiness levels.
+- OECD Better life Index which measures 11 topics in two categories:material living conditions(housing, income etc.) and quality of life(community, education etc.).
