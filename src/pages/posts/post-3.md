@@ -10,7 +10,7 @@ tags: ["global economy"]
 
 Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.
 
-## Trade Creation
+#### **Trade Creation**
 
 This occurs when a country enters into a regional trade agreement (RTA) and starts trading more with other member countries because of the removal of trade barriers within the agreement. It leads to the diversion of trade from higher-cost producers outside the agreement to lower-cost producers within the agreement. This generally results in increased efficiency and welfare gains for the participating countries.
 
@@ -20,7 +20,7 @@ This occurs when a country enters into a regional trade agreement (RTA) and star
 
 </div>
 
-## Trade Diversion
+#### **Trade Diversion**
 
 This occurs when a country enters into an RTA and starts trading less with non-member countries due to the imposition of higher trade barriers (such as tariffs) on them compared to member countries. Trade diversion can lead to inefficiencies if the diverted trade is from a more efficient producer outside the agreement to a less efficient producer within the agreement.
 
@@ -31,7 +31,8 @@ This occurs when a country enters into an RTA and starts trading less with non-m
 
 These concepts are essential in analysing the impact of regional trade agreements on the allocation of resources, trade patterns, and overall economic welfare.
 
-## Here are some real-life examples of trade creation and trade diversion:
+#### **Here are some real-life examples of trade creation and trade diversion:**
+<br>
 
 **Trade Creation:**
 
@@ -53,7 +54,7 @@ The EU has also experienced trade diversion, particularly in agricultural produc
 
 Mercosur, comprising countries like Brazil, Argentina, Paraguay, and Uruguay, has seen instances of trade diversion. When Mercosur imposes higher tariffs on goods from non-member countries, it diverts trade away from those countries to member countries, sometimes at the expense of efficiency.
 
-## Essay type exercises: 
+#### **Essay type exercises:** 
 
 1. Discuss the concept of trade creation and trade diversion in the context of regional trade agreements. Using real-life examples, analyse the economic effects of trade creation and diversion on member countries and non-member countries.
 

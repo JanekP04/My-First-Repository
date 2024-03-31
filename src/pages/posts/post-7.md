@@ -9,10 +9,10 @@ tags: ["microeconomics"]
 
 # Measuring economic progress
 
-## Economic development
+#### **Economic development**
 Economic development is a multidimensional concept. It could be defined as an improvement in living standards or economic welfare, wellbeing.
 
-## Economic growth
+#### **Economic growth**
 It is an increase in the real output of the economy.
 
 To measure economic progress we use single and composite indicators. In this part some examples would be showcased. Of course it should be taken into account that inaccuracies of different sorts may appear when data is collected for all indicators.

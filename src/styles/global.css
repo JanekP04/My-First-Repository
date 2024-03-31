@@ -56,6 +56,10 @@
     list-style: decimal;
     padding-inline: 18px;
   }
+  ul{
+    list-style: disc;
+    padding-inline: 18px;
+  }
   hr{
     height: 1px;
     width: 100%;

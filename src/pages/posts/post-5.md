@@ -24,6 +24,7 @@ a. **Fiscal Policy:**- Fiscal policy involves government manipulation of taxatio
 <div class='flex justify-center'>
 
 ![](../../images/Chart52.jpg)
+
 </div>
 
 -Contractionary Fiscal Policy: Implemented during periods of inflation or economic overheating to reduce aggregate demand. This involves increasing taxes and/or decreasing government spending.
@@ -82,6 +83,7 @@ _-Expansionary Monetary Policy:_ Implemented during economic downturns to stimul
 <div class='flex justify-center'>
 
 ![](../../images/Chart51.jpg)
+
 </div>
  
 -Contractionary Monetary Policy: Implemented during periods of inflation to reduce borrowing and spending. This involves increasing interest rates and/or reducing the money supply.
@@ -158,7 +160,7 @@ Examples:
 
 **5.Examples:**
 
--Great Recession: During the 2008 financial crisis, many governments implemented expansionary fiscal and monetary policies to stimulate demand and prevent a deep recession.
+- Great Recession: During the 2008 financial crisis, many governments implemented expansionary fiscal and monetary policies to stimulate demand and prevent a deep recession.
 
--COVID-19 Pandemic: In response to the economic impacts of the COVID-19 pandemic, governments worldwide implemented massive fiscal stimulus packages and central banks pursued aggressive monetary easing to support aggregate demand and prevent a prolonged recession.
+- COVID-19 Pandemic: In response to the economic impacts of the COVID-19 pandemic, governments worldwide implemented massive fiscal stimulus packages and central banks pursued aggressive monetary easing to support aggregate demand and prevent a prolonged recession.
 
