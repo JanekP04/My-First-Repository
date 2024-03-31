@@ -4,10 +4,9 @@ const { title, url, description, date } = Astro.props;
 
 <div class="blogpost relative flex items-center md:h-fit sm:h-32 sm:mx-2 sm:my-2 px-1 py-2 shadow">
     <div class="sm:w-2/3">
-            <h1 class="post-title m-0"><a href={url}>{title}</a></h1>
+        <div>
+            <h1 class="post-title m-0"><a href={url}>{title}</a></h1><p><em>{date.slice(0,10)}</em></p>
+        </div>
             <p class="post-desc pb-10 md:py-2 sm:py-2"><a href={url}>{description}</a></p>
-    </div>
-    <div class="absolute bottom-0 sm:left-96 sm:top-4 sm:translate-x-64 md:none lg:translate-x-80">
-        <p><em>{date.slice(0,10)}</em></p>
     </div>
 </div>
