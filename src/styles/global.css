@@ -24,32 +24,58 @@
   body {
     margin: 0 auto;
     width: 100%;
-    max-width: 100ch;
+    max-width: 90ch;
     /* min-height: 100dvh; */
     /* height: calc(100% - footer); */
     position: relative;
     padding-bottom: 10rem;
   }
   
- 
-  
+
   h1 {
+    font-size: 2.7rem;
     margin: 1rem 0;
     font-size: 2rem;
     font-family: var(--title-font);
     line-height: 1.1;
   }
+  h2{
+    font-size: 2rem;
+    line-height: 1.15;
+  }
+  h3{
+    font-size: 1.7rem;
+  }
+  h4{
+    font-size: 1.4rem;
+  }
+  h5{
+    font-size: 1.25rem;
+  }
+  ol{
+    list-style: decimal;
+    padding-inline: 18px;
+  }
+  hr{
+    height: 1px;
+    width: 100%;
+  }
   .post-title{
-    font-size: 1.5rem;
+    padding-top: 4px;
+    font-size: 1.45rem;
   }
 
   p{
     font-family: var(--paragraph-font);
     font-weight: 400;
     font-size: 0.95rem;
+    text-wrap: wrap;
+    padding-inline: 2px;
+    padding-bottom: 12px;
   }
   .post-desc{
-    font-size: 1rem;
+    font-size: 0.95rem;
+    padding-top: 6px;
   }
 
   footer{
@@ -61,16 +87,17 @@
   }
 /* nav styles */
 .hamburger {
-  padding: 10px 10px;
+  padding: 12px 6px;
   cursor: pointer;
   margin-bottom: auto;
 }
 
 .hamburger .line {
   display: block;
-  width: 24px;
-  height: 3px;
-  margin-bottom: 4px;
+  width: 32px;
+  height: 4px;
+  margin-bottom: 6px;
+  border-radius: 2px;
   background-color: var(--main-color);
 }
 
@@ -106,14 +133,10 @@
   .hamburger {
     display: none;
   }
-
-  h1{
-    font-size: 3.2rem;
-  }
 }
 
 /* Markdown styling */
 
 .red-text{
-  color: #B4424B;
+  color: #bd3e48;
 }
