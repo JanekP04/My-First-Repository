@@ -1,60 +1,80 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'HL topic Trade diversion and trade creation'
+title: 'Free trade and protectionism'
 pubDate: 2024-03-30
-description: 'Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.'
+description: 'Free trade takes place between countries when there are no barriers to trade in place, established by the government or international organisations.'
 author: 'Alicja Pasterzak'
 tags: ["global economy"]
 ---
-# HL topic Trade diversion and trade creation
 
-Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.
+# Free trade and protectionism
 
-## Trade Creation
+## Free trade
+Free trade takes place between countries when there are no barriers to trade in place, established by the government or international organisations.
 
-This occurs when a country enters into a regional trade agreement (RTA) and starts trading more with other member countries because of the removal of trade barriers within the agreement. It leads to the diversion of trade from higher-cost producers outside the agreement to lower-cost producers within the agreement. This generally results in increased efficiency and welfare gains for the participating countries.
+## Arguments for protectionism
 
-<div class='flex justify-center'>
+1. **Protecting domestic employment**: In the economy there will be industries that are in decline(sunset industries), due to inability to compete with foreign firms. Governments may attempt to protect these industries by introducing protectionist measures.
 
-![](../../images/tradecreation.png)
+2. **Protecting the economy from low-cost labour**: Unemployment may occur if the low cost labour from foreign importers. This may however go against the idea of comparative advantage.
 
-</div>
+3. **Protecting an infant (sunrise) industry**: Governments may impose protectionist measures to protect newly developing industries which are not competitive enough. These sunrise industries do not yet possess economies of scale which causes them to be less competitive.
 
-## Trade Diversion
+4. **To avoid risks of over-specialisation**: Governments may attempt to limit over-specialisation to avoid dependence on exports of one or two products. This lack of diversification leads to an increased risk if the world markets for these products would change.
+5. **Strategic reasons**: Some argue that certain industries should be protected in case of war.
 
-This occurs when a country enters into an RTA and starts trading less with non-member countries due to the imposition of higher trade barriers (such as tariffs) on them compared to member countries. Trade diversion can lead to inefficiencies if the diverted trade is from a more efficient producer outside the agreement to a less efficient producer within the agreement.
+6. **To prevent dumping**: Dumping refers to a practice of selling large quantities of goods in a foreign market at a lower price than production costs. Dumping can severely negatively affect smaller producers of the country where the products are sold to (especially developing countries). This situation allows governments to introduce anti-dumping measures.
 
-<div class='flex justify-center'>
+7. **To protect standards**: Countries may introduce health, environmental and safety standards for goods imported into their markets. This serves to ensure the quality of imported products matches the standards of the domestic ones.
 
-![](../../images/tradediversion.jpg)
-</div>
+8. **To raise government revenue**: Taxation on imports (tariffs) raise government revenue.
 
-These concepts are essential in analysing the impact of regional trade agreements on the allocation of resources, trade patterns, and overall economic welfare.
+9. **To correct a balance of payments deficit**.
 
-## Here are some real-life examples of trade creation and trade diversion:
 
-**Trade Creation:**
+## Arguments against protectionism
+1. Protectionism may raise prices to consumers and producers.
+2. Less choice for consumers.
+3. Less competition if foreign firms are kept away. This may create inefficiencies if domestic producers do not have the incentive to minimise costs along with lower export competitiveness.
+4. Distorted comparative advantage leading to inefficient allocation of resources and lower world output.
+5. Protectionism may prompt retaliation from other countries.
+6. These disadvantages may overall hinder economic growth.
 
-*European Union (EU)*
+## Main types of protectionism
+**Tariffs**, which are taxes imposed on imported goods. They are the most common anti-dumping measure as they can eliminate the cost advantage of importers.
 
-When countries like Spain and Portugal joined the EU, they experienced trade creation as they increased their trade with other member countries due to reduced trade barriers.
+![](../../images/TD.png)
 
-*North American Free Trade Agreement (NAFTA)*
+How do the tariffs work then? Essentially upon the imposition of a tariff the supply curve shifts upwards but the amount of tax. The shift would refer to the world supply curve as tariffs affect the foreign producers. Of course this shift would lead to a rise in price (Pw to Pw+Tariff). As the law of demand states this will also affect demand negatively. An issue that may appear is loss of consumer surplus as the demand has fallen. This is called dead-weight loss of welfare.
 
-NAFTA led to trade creation among its member countries (United States, Canada, and Mexico) as they benefited from reduced tariffs and increased trade among themselves.
+**Subsidies** essentially defined as the amount of money paid by the government to a firm, per a unit of income, thus lowering the firm's costs. This action helps the firms become more competitive.
 
-**Trade Diversion:**
+![](../../images/SD.png)
 
-*European Union (EU)*
+How do the subsidies work? They shift the domestic supply diagram downwards by the amount of the subsidy hence giving the domestic producers an opportunity to increase production from Q1 to Q1Q3. This means that foreign firms now produce a lesser quantity of Q2Q3 and their revenue falls(from b+c+d to c+d).
 
-The EU has also experienced trade diversion, particularly in agricultural products. When the EU imposes higher tariffs on agricultural imports from non-member countries, it diverts trade away from more efficient producers outside the EU to less efficient producers within the EU.
+The government will pay the subsidy in the form of the revenue boxes e+f+g. The government will face opportunity cost as they will face reduced government spending on other areas.
 
-*Mercosur (Southern Common Market)*
+Once again an issue of inefficiency can occur. The more efficient foreign producers require minimum revenue of g while the domestic firms need b+g, representing this inefficiency. This is another dead-weight loss of welfare.
 
-Mercosur, comprising countries like Brazil, Argentina, Paraguay, and Uruguay, has seen instances of trade diversion. When Mercosur imposes higher tariffs on goods from non-member countries, it diverts trade away from those countries to member countries, sometimes at the expense of efficiency.
+It has to be noted that consumers are indirectly affected by the subsidies as governments use tax revenue to fund subsidies. Potentially higher taxes could be imposed.
 
-## Essay type exercises: 
+**Quotas**, that are physical limits on the number or value of goods that can be imported into a country.
 
-1. Discuss the concept of trade creation and trade diversion in the context of regional trade agreements. Using real-life examples, analyse the economic effects of trade creation and diversion on member countries and non-member countries.
+![](../../images/Q.png)
 
-2. To what extent do regional trade agreements contribute to trade creation and trade diversion? Evaluate the impact of regional trade agreements on global trade patterns and economic welfare, considering both positive and negative consequences.
+How do quotas work? As the quota is imposed on Q1Q3 units the domestic suppliers will produce at the same level yet the foreign producers will provide less units hence generating excess demand(Q3Q2). As a result prices would rise giving the domestic producers a chance to increase their revenue by ΔPquotaPw as the higher prices incentives them to enter the market. As the domestic suppliers earn more the foreign firms will lose revenue (from b+c+d+e to b+g+h).
+
+Point k shows loss of consumer surplus and point j illustrates loss of efficiency hence indicating dead-weight loss of welfare.
+
+
+- Administrative barriers:
+  - Red tape refers to excessive bureaucratic procedures and regulations established to restrict imports.
+  - Health, safety, and environmental standards.
+  - Embargoes, which are known as extreme quotas. This measure involves a complete ban on imports and is usually meant as political punishment.
+
+## Exercises essay type questions
+- Discuss the impact of protectionist policies on global trade and economic development.
+- Evaluate the effectiveness of protectionism in achieving economic objectives such as promoting domestic employment and industrial growth.
+- Examine the impact of protectionism on consumer welfare and choice in the global marketplace.
+- Evaluate the effectiveness of tariffs as a tool for protecting domestic industries from foreign competition.

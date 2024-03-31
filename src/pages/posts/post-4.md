@@ -1,33 +1,69 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Schools of economic thinking'
+title: 'Price elasticity of demand'
 pubDate: 2024-03-30
-description: 'lassical economics emerged during the 18th and 19th centuries and emphasises principles such as free markets, minimal government intervention, and the efficiency of resource allocation through the price mechanism.'
+description: 'Demand is the quantity of a good or service that consumers are willing and able to purchase at different prices in a given time period.'
 author: 'Alicja Pasterzak'
-tags: ["microeconomy"]
+tags: ["microeconomics"]
 ---
 
-# Schools of economic thinking
+# Price elasticity of demand
 
-### Classical Economics
-Classical economics emerged during the 18th and 19th centuries and emphasises principles such as free markets, minimal government intervention, and the efficiency of resource allocation through the price mechanism. Scholars like Adam Smith and David Ricardo are associated with classical economic thought, advocating for concepts such as comparative advantage and the invisible hand.
+## For starters
+Demand is the quantity of a good or service that consumers are **willing and able to purchase** at different prices in a given time period.
 
-Jean-Baptiste Say's Law of Markets, formulated by the French economist Jean-Baptiste Say, posits that "supply creates its own demand." In other words, the production of goods and services generates income for producers, which, in turn, enables them to demand other goods and services in the market.
+Law of demand states that *as the price of a good falls, the quantity demanded for that good increases ceteris paribus*.
 
-### Neoclassical Economics
-Neoclassical economics builds upon classical economics but incorporates mathematical modelling and optimization techniques to analyse individual behaviour, market equilibrium, and welfare economics. Neoclassical economists focus on utility maximisation, rational decision-making, and the importance of marginal analysis in determining consumer and producer behaviour.
+Elasticity is a measure of responsiveness. We will look at two types of elasticities of demand, price elasticity of demand(PED) and income elasticity of demand(YED).
 
-The Labor Theory of Value, proposed by classical economists such as Adam Smith and David Ricardo, suggests that the value of a good or service is determined by the amount of labour required for its production. According to this theory, the more labour inputs (including both physical and mental effort) needed to produce a good or service, the higher its value.
+## Price elasticity of demand(PED)
+**Price elasticity of demand** is a measure of how much the demand for a product changes when there is a change in one of the factors that determine demand.
 
-The Law of Marginal Utility states that as a consumer consumes more units of a particular good or service, the additional satisfaction or utility derived from each additional unit decreases.
+There are two extreme and only theoretical PED values:
 
-Rational Choice Theory in economics posits that individuals make decisions by evaluating the costs and benefits of various options and choosing the one that maximises their utility or satisfaction. This theory assumes that individuals have consistent preferences, perfect information, and the ability to make optimal decisions given their constraints. Rational choice theory forms the basis of much economic analysis, including consumer behaviour, producer decisions, and the functioning of markets. However, critics argue that it may oversimplify human behaviour and fail to account for factors such as bounded rationality, cognitive biases, and social influences.
+- If PED=0 then a change in the price of a product will have no effect on the quantity demanded. The demand is then *perfectly inelastic*.
 
-### Keynesian Economics
-Keynesian economics, developed by John Maynard Keynes in the 20th century, challenges classical assumptions and emphasises the role of aggregate demand in driving economic fluctuations. Keynesian economists advocate for active fiscal policy measures, such as government spending and taxation, to stabilise output, employment, and inflation in the short run. They argue that market economies can experience prolonged periods of unemployment and underutilization of resources, requiring government intervention to achieve full employment and macroeconomic stability.
+![](../../images/PID.png)
 
-### Monetarism
-Monetarism, associated with economists like Milton Friedman, emphasises the role of monetary policy in influencing aggregate demand and controlling inflation. Monetarists advocate for a rule-based approach to monetary policy, focusing on controlling the money supply to achieve long-term price stability. They argue that excessive government intervention in the economy, particularly through discretionary fiscal policy, can lead to inflation and economic instability.
+- If PED=∞ then the quantity demanded changes infinitely in response to a change in price. This is known as *perfectly elastic* demand.
 
-### Behavioural economics
-Behavioural economics integrates insights from psychology into economic analysis to understand how individuals make decisions that may deviate from traditional economic models of rationality. It recognizes that individuals' choices are influenced by cognitive biases, heuristics, social norms, and emotions, which can lead to systematic deviations from rational behaviour. Behavioural economics explores phenomena such as loss aversion, framing effects, and bounded rationality to provide a more realistic understanding of decision-making processes.
+![](../../images/PED.png)
+
+Demand can more typically fall into three categories:
+- Inelastic demand- **0<PED<1**. This means that a change in price leads to a proportionately smaller change in demand. Price increases will lead to higher revenues even if demand falls slightly.
+- Elastic demand- **1<PED<∞**. In this case a change in price will lead to a greater than proportionate change in demand hence a price increase will lead to a loss in sales revenue.
+- Unit elastic demand- **PED=1**. In case of unit elastic demand a change in price will lead to a proportionate, opposite change in the quantity demanded.
+
+![](../../images/ID.png)
+![](../../images/ED.png)
+![](../../images/UED.png)
+
+It is important to remember that PED is not equal across the curve as the curve is not straight.
+
+## Determinants of price elasticity of demand
+1. **Number and closeness of substitutes.**
+2. **The necessity of the product and how widely the product is defined.**
+3. **The proportion of income spent on the good.**
+4. **The time period considered.**
+
+## Why is knowledge of PED important
+Understanding of PED is useful for governments and firms. Firms use it to predict the effects of their pricing decisions on the total revenue. Governments on the other hand use it to predict the consequences of imposition of indirect taxes.
+
+## Income elasticity of demand(YED)
+**Income elasticity of demand** is a measure of how much the demand for a product changes when there is a change in the consumer’s income.
+
+YED values:
+- For inferior goods the YED<0. A given increase in income will lead to a proportionately smaller fall in demand.
+- For necessity goods 0<YED<1. A given increase in income will lead to a proportionately smaller increase in demand.
+- For luxury goods YED>1. This means that a given increase in income will lead to a proportionately larger increase in demand.
+
+## HL Why is knowledge of YED important
+- For firms: Understanding income elasticity of demand (YED) is essential for firms because it shows how changes in consumer income impact the demand for their products. By knowing YED, firms can tailor their strategies to changing consumer income levels, optimising production, pricing, and marketing decisions accordingly.
+- To explain sectoral changes in the structure of the economy: There are three sectors in the economy - Primary sector, Secondary (manufacturing) sector and Tertiary(service)sector. Sectoral changes refer to a shift in relative share of national output and employment that is attributed to each sector as the economy develops. Understanding the relationship between sectoral changes and YED helps policymakers and businesses anticipate shifts in demand patterns, allocate resources efficiently, and foster sustainable economic development.
+
+## Exercises
+1. To what extent does the elasticity of demand affect pricing strategies and revenue management for firms? Analyse how firms can use knowledge of demand elasticity to maximise their revenue and market share.
+2. Evaluate the importance of price elasticity of demand for businesses in making pricing decisions. To what extent does understanding elasticity help firms maximise revenue and achieve their profit objectives?
+3. Discuss the price elasticity of demand (PED) for primary commodities such as agricultural products or raw materials.
+4. Discuss the concept of elastic and inelastic demand and their implications for government policies, such as taxation and subsidy programs. How does the responsiveness of demand to price changes affect the effectiveness of such policies in achieving their intended objectives?
+
