@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Introduction to Economics Review'
 pubDate: 2024-03-31
-description: '**Economics** is a social science that studies how people interact with each other in society to overcome the problems that arise due to the basic problem of scarcity.'
+description: 'Economics is a social science that studies how people interact with each other in society to overcome the problems that arise due to the basic problem of scarcity.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomics"]
 ---
