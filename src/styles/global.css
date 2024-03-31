@@ -24,30 +24,28 @@
   body {
     margin: 0 auto;
     width: 100%;
-    max-width: 90ch;
-    /* min-height: 100dvh; */
-    /* height: calc(100% - footer); */
     position: relative;
     padding-bottom: 10rem;
   }
   
-
+  h1,h2,h3,h4,h5{
+    padding-inline: 6px;
+  }
   h1 {
-    font-size: 2.7rem;
+    font-size: 1.8rem;
     margin: 1rem 0;
-    font-size: 2rem;
     font-family: var(--title-font);
     line-height: 1.1;
   }
   h2{
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 1.15;
   }
   h3{
-    font-size: 1.7rem;
+    font-size: 1.6rem;
   }
   h4{
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
   h5{
     font-size: 1.25rem;
@@ -59,28 +57,34 @@
   ul{
     list-style: disc;
     padding-inline: 18px;
+    margin-left: 8px;
   }
   hr{
     height: 1px;
     width: 100%;
   }
+  .blogpost{
+    border-left: 6px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to bottom, #743ad5, #d53a9d);
+  }
   .post-title{
     padding-top: 4px;
     font-size: 1.45rem;
-  }
-
-  p{
-    font-family: var(--paragraph-font);
-    font-weight: 400;
-    font-size: 0.95rem;
-    text-wrap: wrap;
-    padding-inline: 2px;
-    padding-bottom: 12px;
   }
   .post-desc{
     font-size: 0.95rem;
     padding-top: 6px;
   }
+  p{
+    font-family: var(--paragraph-font);
+    font-weight: 400;
+    font-size: 0.9rem;
+    text-wrap: wrap;
+    padding-inline: 6px;
+    padding-bottom: 12px;
+  }
+  
 
   footer{
     background: var(--main-color);

@@ -1,15 +1,13 @@
 ---
-const { title, url, description } = Astro.props;
-import { Image } from 'astro:assets';
-import PostBg from '../../public/PostBg.jpg';
+const { title, url, description, date } = Astro.props;
 ---
 
-<div class="shadow sm:mx-4 sm:mb-4 md:mx-0 w-full max-w-80">
-    <a href={url}>
-    <Image class="w-full max-h-40" src={PostBg} alt="Placeholder Image" />
-    </a>
-    <div class=" px-2 pb-6">
+<div class="blogpost relative flex items-center sm:h-32 sm:mx-2 sm:my-2 px-1 py-2 shadow">
+    <div class="sm:w-2/3">
             <h1 class="post-title m-0"><a href={url}>{title}</a></h1>
-            <p class="post-desc w-full text-wrap mt-1"><a href={url}>{description}</a></p>
+            <p class="post-desc pb-10 sm:py-2"><a href={url}>{description}</a></p>
+    </div>
+    <div class="absolute bottom-0 sm:left-96 sm:top-4 sm:translate-x-64">
+        <p><em>{date.slice(0,10)}</em></p>
     </div>
 </div>

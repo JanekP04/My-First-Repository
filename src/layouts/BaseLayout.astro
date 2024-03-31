@@ -13,12 +13,10 @@ const { pageTitle } = Astro.props;
     <link href="https://api.fontshare.com/v2/css?f[]=outfit@600&f[]=switzer@400&f[]=poppins@400,300,200&display=swap" rel="stylesheet">
     <title>{pageTitle}</title>
   </head>
-  <body class=" w-full min-w-full 
-  flex flex-col items-center 
-  outline-white outline-1 outline">
+  <body class=" w-full min-w-full min-h-dvh flex flex-col items-center">
     
     <Header />
-    <div class="layout-wrapper w-full max-w-4xl px-3">
+    <div class="w-full max-w-6xl mb-6">
     <slot />
     </div>
     <Footer />
