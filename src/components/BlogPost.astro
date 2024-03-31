@@ -7,6 +7,6 @@ const { title, url, description, date } = Astro.props;
         <div>
             <h1 class="post-title m-0"><a href={url}>{title}</a></h1><p><em>{date.slice(0,10)}</em></p>
         </div>
-            <p class="post-desc pb-10 md:py-2 sm:py-2"><a href={url}>{description}</a></p>
+            <p class="post-desc md:py-2 sm:py-2"><a href={url}>{description}</a></p>
     </div>
 </div>
