@@ -1,14 +1,10 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layout/markdownlayout.astro'
 title: 'Price elasticity of demand'
 pubDate: 2024-03-30
-description: 'Demand is the quantity of a good or service that consumers are willing and able to purchase at different prices in a given time period.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomics"]
 ---
-
-# Price elasticity of demand
-
 #### **For starters**
 Demand is the quantity of a good or service that consumers are **willing and able to purchase** at different prices in a given time period.
 
@@ -24,12 +20,12 @@ There are two extreme and only theoretical PED values:
 - If PED=0 then a change in the price of a product will have no effect on the quantity demanded. The demand is then *perfectly inelastic*.
 <div class="flex justify-center">
 
-![](../../images/PID.png)
+![](./images/PID.png)
 </div>
 - If PED=∞ then the quantity demanded changes infinitely in response to a change in price. This is known as *perfectly elastic* demand.
 <div class="flex justify-center">
 
-![](../../images/PED.png)
+![](./images/PED.png)
 </div>
 
 Demand can more typically fall into three categories:
@@ -39,9 +35,9 @@ Demand can more typically fall into three categories:
 
 <div class="flex justify-center">
 
-![](../../images/ID.png)
-![](../../images/ED.png)
-![](../../images/UED.png)
+![](./images/ID.png)
+![](./images/ED.png)
+![](./images/UED.png)
 </div>
 
 It is important to remember that PED is not equal across the curve as the curve is not straight.

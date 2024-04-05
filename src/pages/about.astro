@@ -1,42 +1,10 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-const pageTitle = "About Me";
-
-const identity = {
-  firstName: "Sarah",
-  country: "Canada",
-  occupation: "Technical Writer",
-  hobbies: ["photography", "birdwatching", "baseball"],
-};
-
-const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
-
-const happy = true;
-const finished = false;
-const goal = 3;
-
-const skillColor = "navy";
-const fontWeight = "bold";
-const textCase = "uppercase";
+import Baselayout from "../layout/baselayout.astro"
+import { Icon } from "astro-icon/components";
 ---
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-	<title>{pageTitle}</title>
-	<style define:vars={{skillColor, fontWeight, textCase}}>
-		.skill {
-		  color: var(--skillColor);
-    	  font-weight: var(--fontWeight);
-    	  text-transform: var(--textCase);
-  		}
-	</style>
-  </head>
-  <body>
-	<BaseLayout pageTitle={pageTitle}>
-		<h1>Page is still not finished</h1>
-		<p>Work in progress...</p>
-	</BaseLayout>
-  </body>
-</html>
+<Baselayout title="About Me">
+	<header class="text-center m-6">
+	<h4>Sorry, this page is not finished yet :(</h4>
+	<p class="flex justify-center items-end">Work in progress... <Icon name="material-symbols-light:engineering-outline-rounded" size={45} /></p>
+	</header>
+</Baselayout>

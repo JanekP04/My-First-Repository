@@ -1,13 +1,10 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layout/markdownlayout.astro'
 title: 'Trade diversion and trade creation'
 pubDate: 2024-03-30
-description: 'Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.'
 author: 'Alicja Pasterzak'
 tags: ["global economy"]
 ---
-# Trade diversion and trade creation
-
 Countries trade to maximise their economic welfare by capitalising on comparative advantages, accessing resources, diversifying markets, and fostering economic growth and development.
 
 #### **Trade Creation**
@@ -16,7 +13,7 @@ This occurs when a country enters into a regional trade agreement (RTA) and star
 
 <div class='flex justify-center'>
 
-![](../../images/tradecreation.png)
+![](./images/tradecreation.png)
 
 </div>
 
@@ -26,7 +23,7 @@ This occurs when a country enters into an RTA and starts trading less with non-m
 
 <div class='flex justify-center'>
 
-![](../../images/tradediversion.jpg)
+![](./images/tradediversion.jpg)
 </div>
 
 These concepts are essential in analysing the impact of regional trade agreements on the allocation of resources, trade patterns, and overall economic welfare.

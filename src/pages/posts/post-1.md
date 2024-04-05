@@ -1,14 +1,10 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layout/markdownlayout.astro'
 title: 'Schools of economic thinking'
 pubDate: 2024-03-30
-description: 'lassical economics emerged during the 18th and 19th centuries and emphasises principles such as free markets, minimal government intervention, and the efficiency of resource allocation through the price mechanism.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomics"]
 ---
-
-# Schools of economic thinking
-
 #### **Classical Economics**
 Classical economics emerged during the 18th and 19th centuries and emphasises principles such as free markets, minimal government intervention, and the efficiency of resource allocation through the price mechanism. Scholars like Adam Smith and David Ricardo are associated with classical economic thought, advocating for concepts such as comparative advantage and the invisible hand.
 

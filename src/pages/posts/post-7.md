@@ -1,8 +1,7 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layout/markdownlayout.astro'
 title: 'Measuring economic progress'
 pubDate: 2024-03-30
-description: 'Economic development is a multidimensional concept. It could be defined as an improvement in living standards or economic welfare, wellbeing.'
 author: 'Alicja Pasterzak'
 tags: ["global economy"]
 ---

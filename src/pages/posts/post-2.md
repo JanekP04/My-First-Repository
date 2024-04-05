@@ -1,14 +1,10 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layout/markdownlayout.astro'
 title: 'Free trade and protectionism'
 pubDate: 2024-03-30
-description: 'Free trade takes place between countries when there are no barriers to trade in place, established by the government or international organisations.'
 author: 'Alicja Pasterzak'
 tags: ["global economy"]
 ---
-
-# Free trade and protectionism
-
 #### **Free trade**
 Free trade takes place between countries when there are no barriers to trade in place, established by the government or international organisations.
 
@@ -39,7 +35,7 @@ Free trade takes place between countries when there are no barriers to trade in 
 **Tariffs**, which are taxes imposed on imported goods. They are the most common anti-dumping measure as they can eliminate the cost advantage of importers.
 <div class='flex justify-center'>
 
-![](../../images/TD.png)
+![](./images/TD.png)
 
 </div>
 
@@ -48,7 +44,7 @@ How do the tariffs work then? Essentially upon the imposition of a tariff the su
 **Subsidies** essentially defined as the amount of money paid by the government to a firm, per a unit of income, thus lowering the firm's costs. This action helps the firms become more competitive.
 <div class='flex justify-center'>
 
-![](../../images/SD.png)
+![](./images/SD.png)
 
 </div>
 
@@ -64,7 +60,7 @@ It has to be noted that consumers are indirectly affected by the subsidies as go
 
 <div class='flex justify-center'>
 
-![](../../images/Q.png)
+![](./images/Q.png)
 
 </div>
 
@@ -73,10 +69,10 @@ How do quotas work? As the quota is imposed on Q1Q3 units the domestic suppliers
 
 Point k shows loss of consumer surplus and point j illustrates loss of efficiency hence indicating dead-weight loss of welfare.
 
-   Administrative barriers:
-  - Red tape refers to excessive bureaucratic procedures and regulations established to restrict imports.
-  - Health, safety, and environmental standards.
-  - Embargoes, which are known as extreme quotas. This measure involves a complete ban on imports and is usually meant as political punishment.
+Administrative barriers:
+- Red tape refers to excessive bureaucratic procedures andregulations established to restrict imports.
+- Health, safety, and environmental standards.
+- Embargoes, which are known as extreme quotas. This measureinvolves a complete ban on imports and is usually meant aspolitical punishment.
 
 #### **Exercises essay type questions**
 - Discuss the impact of protectionist policies on global trade and economic development.

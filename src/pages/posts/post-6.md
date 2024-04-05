@@ -1,14 +1,10 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layout/markdownlayout.astro'
 title: 'Introduction to Economics Review'
 pubDate: 2024-03-31
-description: 'Economics is a social science that studies how people interact with each other in society to overcome the problems that arise due to the basic problem of scarcity.'
 author: 'Alicja Pasterzak'
 tags: ["microeconomics"]
 ---
-
-# Introduction to Economics Review
-
 Economics is a social science that studies how people interact with each other in society to overcome the problems that arise due to the basic problem of scarcity.
 
 #### **Microeconomics vs Macroeconomics** 
@@ -59,7 +55,7 @@ This model illustrates issues of: scarcity, choice, opportunity cost and efficie
 
 <div class='flex justify-center'>
 
-![](../../images/PPC.png)
+![](./images/PPC.png)
 
 </div>
 
@@ -79,7 +75,7 @@ A straight line PPC would portray constant opportunity cost where each additiona
 
 <div class='flex justify-center'>
 
-![](../../images/COC.png)
+![](./images/COC.png)
 
 </div>
 
@@ -91,7 +87,7 @@ If there is an improvement in the quality or quantity of factors of production, 
 
 <div class='flex justify-center'>
 
-![](../../images/PPCSR.png)
+![](./images/PPCSR.png)
 
 </div>
 
@@ -103,7 +99,7 @@ The circular flow of income model is a simplified representation of how money fl
 
 <div class='flex justify-center'>
 
-![](../../images/TSCFOI.png)
+![](./images/TSCFOI.png)
 
 </div>
 
@@ -125,7 +121,7 @@ The model can be expanded to include three more sectors: the government, financi
 
 <div class='flex justify-center'>
 
-![](../../images/CFOI.png)
+![](./images/CFOI.png)
 
 </div>
 
